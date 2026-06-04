@@ -55,3 +55,7 @@ The dashboard tracks 6 critical operational and financial metrics extracted dire
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. If prompted to refresh data sources, navigate to **Home > Transform Data > Data source settings** and update the file path to point to your local copy of `mobile_sales_data.csv`.
 4. Click **Refresh** to populate the visuals.
+
+---
+
+This project is licensed under the MIT License.
