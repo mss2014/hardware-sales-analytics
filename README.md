@@ -11,9 +11,10 @@ Using **Power BI** for data modeling and interactive visualization, and **PowerP
 ---
 
 ## 📊 Deliverables Included
-1. **Interactive Power BI Dashboard (`.pbix`)** – A interactive analytical report featuring high-level KPIs, time-series trends, and granular regional/brand breakdowns.
+1. **Interactive Power BI Dashboard (`.pbix`)** – A interactive analytical report featuring high-level KPIs, time-series trends, and granular regional/brand breakdowns.Below is a screenshot of the completed interactive report. 
+[Power BI Dashboard Screenshot](TASK 4.png)
 2. **Executive Summary Presentation (`.pptx`)** – A 6-slide deck summarizing the core business insights, supply chain bottlenecks, and strategic growth recommendations for leadership.
-
+The included presentation file (`Device_Sales_Performance_Summary.pptx`) translates the dashboard's data into high-level business insights. It uses a premium corporate dark navy theme for impact slides and clean light backgrounds for data tables.
 ---
 
 ## 📈 Core Key Performance Indicators (KPIs)
